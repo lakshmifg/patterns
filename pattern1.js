@@ -8,4 +8,5 @@ for (let i = n; i >= 1; i--) {
         str +="* "
     }
     console.log(str);
+    console.log(done);
 } 
